@@ -6,7 +6,7 @@ servers = {
     "rtmp://x.rtmp.youtube.com/live2"
 }
 
-stream_key = "rqea-a8dr-1507-qgxu-2xg2"
+stream_key = "INPUT_Your_StreamKeyHere"
 
 current_index = 1
 connected = false
@@ -54,3 +54,4 @@ function try_next_server()
 end
 
 obs.obs_frontend_add_event_callback(on_event)
+
