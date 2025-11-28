@@ -2,3 +2,11 @@ kumpulan script untuk OBS
 ScoreLose.lua = script membuat fungsi menambah score lose overlay
 ScoreWin.lu = script untuk membuat fungsi menambah score Win overlay
 autortmps = script untuk mencegah stream failover karena jaringan tidak stabil, menggunakan 3 url RTMPS youtube
+
+||Cara penggunaan||  
+1. Install terlebih dahulu OBS anda  
+2. Buka OBS yang sudah terinstall  
+3. pilih menu TOOLS yang disamping HELP di toolbars  
+4. pilih Script  
+5. dibagian script pilih icon "+"  
+6. import script
